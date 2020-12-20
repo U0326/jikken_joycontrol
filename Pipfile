@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+joycontrol = {git = "https://github.com/mart1nro/joycontrol.git"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

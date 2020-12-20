@@ -1,0 +1,45 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c8aa8bd690f38d94347715707b15761de004741fee7212528e293c0d61adce2b"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "aioconsole": {
+            "hashes": [
+                "sha256:7c038bb40b7690bf5be6b17154830b7bff25e7be1c02d8420a346c3efbd5d8e5"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==0.3.1"
+        },
+        "dbus-python": {
+            "hashes": [
+                "sha256:11238f1d86c995d8aed2e22f04a1e3779f0d70e587caffeab4857f3c662ed5a4"
+            ],
+            "version": "==1.2.16"
+        },
+        "hid": {
+            "hashes": [
+                "sha256:f61b0382f37a334bc8ba8604bc84b94875ee4f594fbbaf82b2c3b3e827883fc1",
+                "sha256:fba9913f07030b01059b822b24c83b370ca3f444e9e6443bd662f9f1aa3f0780"
+            ],
+            "version": "==1.0.4"
+        },
+        "joycontrol": {
+            "git": "https://github.com/mart1nro/joycontrol.git",
+            "ref": "18a09da1a04306534ff9e1df8a1a69c0192a3244"
+        }
+    },
+    "develop": {}
+}
